@@ -1,0 +1,26 @@
+{
+  "name": "ehtask",
+  "version": "1.0.0",
+  "description": "single queue task manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeeez/ehtask.git"
+  },
+  "keywords": [
+    "ehutil",
+    "queue"
+  ],
+  "author": "arlen.yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeeez/ehtask/issues"
+  },
+  "homepage": "https://github.com/yeeez/ehtask#readme",
+  "dependencies": {
+    "log4js": "^6.3.0"
+  }
+}
